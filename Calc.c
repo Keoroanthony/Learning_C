@@ -5,11 +5,7 @@
 int main(void)
 {
     int i = 1;             /*                                    */
-    int Reuse;             /*                                    */
-    double x, xy, y;       /*                                    */
     char Opt;              /*   Declaring the type variables     */
-    int Numbering;         /*                                    */
-    int N, F;              /*                                    */
     float Num1, Num2 ,ans; /*                                    */
     char oper;             /*                                    */
     printf("Welcome to Tony's calculator.\n");
